@@ -62,7 +62,7 @@ Wiring overview with sensors, motor driver, servo, and battery:
 ## 📸 Images
 | Build | Front | Top |
 |-------|-------|-----|
-| ![](IMG_9132.jpeg) | ![](IMG_9133.jpeg) | ![](IMG_9134.jpeg) |
+| ![](IMG_9132.jpeg) | ![](IMG_9133.jpeg) | ![](IMG_9135.jpeg) |
 
 ---
 
