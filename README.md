@@ -55,7 +55,7 @@ Built to practice **robotics, sensor integration, motor control, and embedded pr
 ## ⚡ Circuit
 Wiring overview with sensors, motor driver, servo, and battery:
 
-![Circuit Diagram](images/circuit.png)
+![Circuit Diagram](images/circuit.jpg)
 
 ---
 
